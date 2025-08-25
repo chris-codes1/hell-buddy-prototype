@@ -345,7 +345,7 @@ def createGui():
     root.resizable(False, False)
     root.attributes("-topmost", True)
     root.overrideredirect(True)
-    root.iconbitmap('Helldivers2MacroIcon.ico')
+    root.iconbitmap('HellBuddyPrototypeIcon.ico')
     root.attributes("-alpha", 0.85)
     # root.geometry(f"+960+0")
 
